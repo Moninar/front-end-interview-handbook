@@ -5,7 +5,7 @@ Answers to [Front-end Job Interview Questions - JS Questions](https://github.com
 * [Explain event delegation](#explain-event-delegation)
 * [unclear] [Explain how `this` works in JavaScript](#explain-how-this-works-in-javascript)
 * [Explain how prototypal inheritance works](#explain-how-prototypal-inheritance-works)
-* [What do you think of AMD vs CommonJS?](#what-do-you-think-of-amd-vs-commonjs)
+* [not familiar] [What do you think of AMD vs CommonJS?](#what-do-you-think-of-amd-vs-commonjs)
 * [Explain why the following doesn't work as an IIFE: `function foo(){ }();`. What needs to be changed to properly make it an IIFE?](#explain-why-the-following-doesnt-work-as-an-iife-function-foo--what-needs-to-be-changed-to-properly-make-it-an-iife)
 * [What's the difference between a variable that is: `null`, `undefined` or undeclared? How would you go about checking for any of these states?](#whats-the-difference-between-a-variable-that-is-null-undefined-or-undeclared-how-would-you-go-about-checking-for-any-of-these-states)
 * [What is a closure, and how/why would you use one?](#what-is-a-closure-and-howwhy-would-you-use-one)
